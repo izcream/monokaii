@@ -28,5 +28,9 @@
         "path": "./themes/monokaii-color-theme-no-italic.json"
       }
     ]
+  },
+  "scripts": {
+    "clean": "rm -rf *.vsix",
+    "build": "yarn clean && vsce package"
   }
 }
