@@ -3,12 +3,12 @@
   "displayName": "monokaii",
   "publisher": "izcream",
   "description": "Monokai with eyes care color scheme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/izcream/monokaii"
   },
-  "icon": "monokaii.png",
+  "icon": "assets/monokaii.png",
   "engines": {
     "vscode": "^1.63.0"
   },
