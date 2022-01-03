@@ -3,7 +3,7 @@
   "displayName": "monokaii",
   "publisher": "izcream",
   "description": "Monokai with eyes care color scheme",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/izcream/monokaii"
@@ -21,11 +21,6 @@
         "label": "monokaii",
         "uiTheme": "vs-dark",
         "path": "./themes/monokaii-color-theme.json"
-      },
-      {
-        "label": "monokaii(no-italic)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/monokaii-color-theme-no-italic.json"
       }
     ]
   },

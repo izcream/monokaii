@@ -201,7 +201,7 @@
 			}
 		},
 		{
-			"scope": "variable",
+			"scope": "variable, meta.object.member",
 			"settings": {
 				"foreground": "#F8F8F2",
 				"fontStyle": ""
